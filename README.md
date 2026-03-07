@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Kanishk Patel 👋
 
-<!--
-**KanishkPatel0206/KanishkPatel0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Mechanical Engineering** @ IIT Tirupati  
+📊 **BS Data Science & Applications** @ IIT Madras (Online Degree Program)
 
-Here are some ideas to get you started:
+### 🔭 About Me
+I'm a mechanical engineering student with a deep interest in the intersection of physical systems and intelligent computing. I enjoy building things that move, think, and adapt.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Interests
+- 🤖 Robotics & Mechatronics
+- 🧠 Artificial Intelligence & Machine Learning
+- 📈 Data Science & Analytics
+- 🦾 Computer Vision (YOLO, OpenCV)
+- ⚙️ Control Systems & Simulation (MATLAB/Simulink)
+
+### 🛠️ Currently Working On
+- Robotic arm simulations and real-world control
+- ML models and data-driven projects
+- Expanding my DS foundation through IIT Madras ODP
+
+### 📫 Let's Connect!
+Feel free to explore my repos and reach out!
