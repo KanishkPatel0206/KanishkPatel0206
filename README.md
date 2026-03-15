@@ -145,14 +145,14 @@ kanishk = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KanishkPatel0206&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KanishkPatel0206&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkPatel0206&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KanishkPatel0206&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KanishkPatel0206&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
