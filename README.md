@@ -20,6 +20,7 @@ kanishk = {
     "name"       : "Kanishk Patel",
     "degrees"    : ["B.Tech ME @ IIT Tirupati", "BS DS&A @ IIT Madras (ODP)"],
     "focus"      : ["Machine Learning", "Robotics", "Simulation", "Computer Vision"],
+    "learning"   : ["C++", "HTML", "Deep Learning", "Computer Vision"],
     "currently"  : "Building ROS 2 robotic arms & training ML models",
     "goal"       : "Autonomous systems where algorithms meet actuators",
     "available"  : True,   # open to internships & collaborations
@@ -62,7 +63,6 @@ kanishk = {
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Machine Learning & Data**
 
@@ -83,6 +83,8 @@ kanishk = {
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
