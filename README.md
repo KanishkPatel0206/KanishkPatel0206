@@ -12,8 +12,7 @@
 
 </div>
 
-- 🌐 **Portfolio** → [kanishkpatel0206.github.io/Kanishk](https://kanishkpatel0206.github.io/Kanishk)
-- 
+                            🌐 **Portfolio** → [kanishkpatel0206.github.io/Kanishk](https://kanishkpatel0206.github.io/Kanishk)
 ---
 
 ## 👨‍💻 About Me
