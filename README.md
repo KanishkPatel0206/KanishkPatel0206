@@ -12,6 +12,8 @@
 
 </div>
 
+- 🌐 **Portfolio** → [kanishkpatel0206.github.io/Kanishk](https://kanishkpatel0206.github.io/Kanishk)
+- 
 ---
 
 ## 👨‍💻 About Me
@@ -164,7 +166,6 @@ kanishk = {
 - 👁️ **Computer Vision Pipeline** — real-time YOLO + OpenCV inference on custom datasets
 - 🦾 **ROS 2 Robotic Arm** — advancing control with sensor fusion and closed-loop feedback
 - 📊 **IIT Madras DS Programme** — deepening ML foundations with live industry datasets
-- 🌐 **Portfolio** → [kanishkpatel0206.github.io/Kanishk](https://kanishkpatel0206.github.io/Kanishk)
 
 ---
 
