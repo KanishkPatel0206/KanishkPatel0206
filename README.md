@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kanishk%20Patel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Robotics%20%7C%20ML%20%7C%20Simulation&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kanishk%20Patel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20%7C%20Robotics%20%7C%20Simulation&descAlignY=52&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Robotics+%26+ML+Engineer;IIT+Tirupati+%7C+IIT+Madras;Algorithms+that+move+things+in+the+real+world;Open+to+Internships+%26+Collaboration" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=ML+%26+Robotics+Engineer;IIT+Tirupati+%7C+IIT+Madras;Building+things+that+move+%26+think;Open+to+Internships+%26+Collaboration" alt="Typing SVG"/>
 
 <br/>
 
@@ -15,17 +15,16 @@
 ---
 
 ## 👨‍💻 About Me
-
 ```python
 kanishk = {
-    "name"      : "Kanishk Patel",
-    "degrees"   : ["B.Tech ME @ IIT Tirupati", "BS DS&A @ IIT Madras (ODP)"],
-    "focus"     : ["Robotics & Control", "Computer Vision", "ML & Simulation", "Industry 4.0"],
-    "stack"     : ["Python", "ROS 2", "MATLAB/Simulink", "OpenCV", "YOLO", "PyTorch"],
-    "learning"  : ["C++", "Deep Learning", "Sensor Fusion"],
-    "goal"      : "Autonomous systems where algorithms meet actuators",
-    "available" : True,   # open to internships & collaborations
-    "contact"   : "kanishkpatel0206@gmail.com"
+    "name"       : "Kanishk Patel",
+    "degrees"    : ["B.Tech ME @ IIT Tirupati", "BS DS&A @ IIT Madras (ODP)"],
+    "focus"      : ["Machine Learning", "Robotics", "Simulation", "Computer Vision"],
+    "learning"   : ["C++", "HTML", "Deep Learning", "Computer Vision"],
+    "currently"  : "Building ROS 2 robotic arms & training ML models",
+    "goal"       : "Autonomous systems where algorithms meet actuators",
+    "available"  : True,   # open to internships & collaborations
+    "contact"    : "kanishkpatel0206@gmail.com"
 }
 ```
 
@@ -39,8 +38,8 @@ kanishk = {
 
 ### 🏛️ IIT Tirupati
 **B.Tech — Mechanical Engineering**
-- Mechatronics, Control Systems, Theory of Machines
-- Simscape · Simulink · MATLAB
+- Robotics, Control Systems, Theory of Machines
+- Simscape, Simulink, MATLAB R2025b
 - Status: **Ongoing**
 
 </td>
@@ -48,7 +47,7 @@ kanishk = {
 
 ### 🏛️ IIT Madras
 **BS — Data Science & Applications** *(ODP)*
-- ML · Statistics · Data Analytics
+- ML, Statistics, Data Analytics
 - Python-based curriculum
 - Status: **Ongoing**
 
@@ -60,11 +59,18 @@ kanishk = {
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages & Core Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Machine Learning & Data**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 **Robotics & Simulation**
 
@@ -72,19 +78,13 @@ kanishk = {
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-**Computer Vision & ML**
+**Currently Learning**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Data & Tools**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
@@ -94,43 +94,22 @@ kanishk = {
 <tr>
 <td width="50%">
 
-### 👁️ [Real-Time YOLO Object Detection](https://github.com/KanishkPatel0206/yoloPyton)
-> Live webcam inference using YOLOv8 — detects and labels objects in real time with bounding boxes and confidence scores. Built with Python and OpenCV.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-</td>
-<td width="50%">
-
 ### 🦾 [2-DOF Arm + Camera Sensor](https://github.com/KanishkPatel0206/2-degree-arm-with-camera-sensor)
-> ROS 2 simulation of a robotic arm with onboard camera feed, square trajectory control in Gazebo Ignition Fortress, visualised in RViz2.
+> ROS 2 simulation of a robotic arm with live onboard camera feed, square trajectory control in Gazebo Ignition Fortress, visualised in RViz2.
 
 ![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=flat)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
-### ⚙️ [PID Motor Controller](https://github.com/KanishkPatel0206)
-> Software PID controller with interactive Python simulator (matplotlib sliders), Arduino/Wokwi hardware simulation, and a ROS 2 + Gazebo integration package.
+### 🔬 [Breast Cancer Classifier](https://github.com/KanishkPatel0206/Logistic_Regression_in_python)
+> Logistic Regression on the Wisconsin dataset — **97% test accuracy** with full confusion matrix, precision/recall, and feature importance.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-
-</td>
-<td width="50%">
-
-### ⚙️ [Shaper Mechanism Simulation](https://github.com/KanishkPatel0206/Shaper-Mechanism-Quick-Return-Simulation)
-> Six-link quick-return kinematic chain in Simscape Multibody. Full position, velocity & acceleration analysis — Theory of Machines project.
-
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![Simscape](https://img.shields.io/badge/Simscape-0076A8?style=flat&logo=mathworks&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![accuracy](https://img.shields.io/badge/Accuracy-97%25-brightgreen?style=flat)
 
 </td>
 </tr>
@@ -146,12 +125,11 @@ kanishk = {
 </td>
 <td width="50%">
 
-### 🔬 [Breast Cancer Classifier](https://github.com/KanishkPatel0206/Logistic_Regression_in_python)
-> Logistic Regression on the Wisconsin dataset — **97% test accuracy** with full confusion matrix, precision/recall, and feature importance analysis.
+### ⚙️ [Shaper Mechanism Simulation](https://github.com/KanishkPatel0206/Shaper-Mechanism-Quick-Return-Simulation)
+> Six-link quick-return kinematic chain in Simscape Multibody. Position, velocity & acceleration analysis — Theory of Machines project.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![accuracy](https://img.shields.io/badge/Accuracy-97%25-brightgreen?style=flat)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Simscape](https://img.shields.io/badge/Simscape-0076A8?style=flat&logo=mathworks&logoColor=white)
 
 </td>
 </tr>
@@ -183,12 +161,9 @@ kanishk = {
 
 ## 🚀 What I'm Working On
 
-- 🤖 **Predictive Maintenance Simulator** — bridging Factory I/O sensor data with Python ML and a Streamlit dashboard
-- 👁️ **Computer Vision Pipeline** — real-time YOLO + OpenCV inference on custom datasets
-- 🦾 **ROS 2 Robotic Arm** — advancing control with sensor fusion and closed-loop feedback
-- 📊 **IIT Madras DS Programme** — deepening ML foundations with live industry datasets
-- 🌐 **Portfolio** → [kanishkpatel0206.github.io/Kanishk](https://kanishkpatel0206.github.io/Kanishk)
-
+- 🦾 Advancing ROS 2 robotic arm control with sensor fusion
+- 🧠 Building a computer vision pipeline with YOLO + OpenCV
+- 📊 Deepening ML foundations through IIT Madras DS programme
 ---
 
 ## 📫 Connect With Me
