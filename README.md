@@ -148,8 +148,15 @@ kanishk = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KanishkPatel0206&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkPatel0206&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook,html,javascript,css" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KanishkPatel0206&theme=tokyonight" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KanishkPatel0206&theme=tokyonight" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=KanishkPatel0206&theme=tokyonight&hide_border=true" width="60%"/>
+
 </div>
 
 <div align="center">
