@@ -164,15 +164,7 @@ kanishk = {
 
 ---
 
-## 🌇 GitHub Skyline
 
-<div align="center">
-
-![Skyline](./metrics.skyline.svg)
-
-</div>
-
----
 
 ## 🚀 What I'm Working On
 
