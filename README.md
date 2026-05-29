@@ -148,20 +148,27 @@ kanishk = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KanishkPatel0206&theme=tokyonight" height="170"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KanishkPatel0206&theme=tokyonight" height="170"/>
+![Stats](./metrics.stats.svg)
 
 </div>
 
+---
+
+## 📅 Contribution Calendar
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=KanishkPatel0206&theme=tokyonight&hide_border=true" width="60%"/>
+![Isometric Calendar](./metrics.isocalendar.svg)
 
 </div>
 
+---
+
+## 🌇 GitHub Skyline
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KanishkPatel0206&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+![Skyline](./metrics.skyline.svg)
 
 </div>
 
