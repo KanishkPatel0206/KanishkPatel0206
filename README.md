@@ -162,8 +162,13 @@ kanishk = {
 
 </div>
 
----
+<div align="center">
 
+![Contribution Graph](./metrics.calendar.svg)
+
+</div>
+
+---
 
 
 ## 🚀 What I'm Working On
