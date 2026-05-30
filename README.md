@@ -1,120 +1,217 @@
-# Point Cloud Data Visualisation & Path
+<div align="center">
 
-A collection of Python scripts for loading and visualising 3D point cloud data (`.ply` files) using multiple libraries — Open3D, PyVista, and PyntCloud. The sample dataset used is a **Patchwork Chair** PLY file from the IITH LiDAR ground dataset.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kanishk%20Patel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Robotics%20%7C%20ML%20%7C%20Simulation&descAlignY=52&descSize=18" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Robotics+%26+ML+Engineer;IIT+Tirupati+%7C+IIT+Madras;Algorithms+that+move+things+in+the+real+world;Open+to+Internships+%26+Collaboration" alt="Typing SVG"/>
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/KanishkPatel0206?style=social)](https://github.com/KanishkPatel0206)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=KanishkPatel0206&color=00e5ff&style=flat&label=Profile+Views)](https://github.com/KanishkPatel0206)
+
+</div>
+
+ 🌐 **Portfolio** → [https://kanishk-portfolio-kv9w.arcada.app/]
 ---
 
-## 📁 Project Structure
+## 👨‍💻 About Me
 
-```
-point_cloud_data_visualise_and_path/
-│
-├── open3d_visualise.py        # Visualise point cloud using Open3D
-├── open3d_voxelization.py     # Voxel grid downsampling and visualisation using Open3D
-├── pyvista_visualise.py       # Visualise point cloud using PyVista
-├── pyntcloud_visualise.py     # Load with PyntCloud, render with PyVista
-│
-├── patchwork_chair_ply_0/
-│   ├── Patchwork chair.ply    # Sample 3D point cloud file
-│   ├── Patchwork chair_0.jpg  # Reference image of the chair
-│   └── license.txt
-│
-└── README.md
-```
-
----
-
-## 🛠️ Scripts Overview
-
-### 1. `open3d_visualise.py`
-Loads a `.ply` point cloud file and renders it in an interactive Open3D window.
-
-- Reads the point cloud using `open3d.io.read_point_cloud()`
-- Validates that points were loaded successfully
-- Opens an 800×600 interactive viewer window
-
-### 2. `open3d_voxelization.py`
-Demonstrates **voxel grid downsampling** — converting a dense point cloud into a structured grid of cubes.
-
-- Downsamples the cloud with a configurable `voxel_size` (default: `0.5`)
-- Creates a `VoxelGrid` object from the downsampled cloud
-- Prints voxel count info and renders the voxel grid interactively
-
-> 💡 Change `voxel_size` to control the resolution. Smaller = more detail, larger = fewer cubes.
-
-### 3. `pyvista_visualise.py`
-Reads and visualises the point cloud directly using **PyVista**.
-
-- Loads the `.ply` file via `pv.read()`
-- Renders points as spheres with configurable `point_size`
-- Opens an 800×600 interactive plotter window
-
-### 4. `pyntcloud_visualise.py`
-Loads the point cloud using **PyntCloud**, extracts XYZ coordinates as a NumPy array, then renders using **PyVista**.
-
-- Uses PyntCloud for loading and pandas-based point access
-- Converts to a `pv.PolyData` object for rendering
-- Renders points as spheres in a PyVista plotter
-
----
-
-## ⚙️ Setup
-
-### Prerequisites
-- Python 3.8+
-- Windows (file paths use raw Windows strings)
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/KanishkPatel0206/point_cloud_data_visualise_and_path.git
-cd point_cloud_data_visualise_and_path
-```
-
-### 2. Create a virtual environment
-```bash
-python -m venv .venv
-.venv\Scripts\Activate.ps1      # PowerShell
-# or
-.venv\Scripts\activate.bat      # Command Prompt
-```
-
-### 3. Install dependencies
-```bash
-pip install open3d pyvista pyntcloud
+```python
+kanishk = {
+    "name"      : "Kanishk Patel",
+    "degrees"   : ["B.Tech ME @ IIT Tirupati", "BS DS&A @ IIT Madras (ODP)"],
+    "focus"     : ["Robotics & Control", "Computer Vision", "ML & Simulation", "Industry 4.0"],
+    "stack"     : ["Python", "ROS 2", "MATLAB/Simulink", "OpenCV", "YOLO", "PyTorch"],
+    "learning"  : ["C++", "Deep Learning", "Sensor Fusion"],
+    "goal"      : "Autonomous systems where algorithms meet actuators",
+    "available" : True,   # open to internships & collaborations
+    "contact"   : "kanishkpatel0206@gmail.com"
+}
 ```
 
 ---
 
-## ▶️ Usage
+## 🎓 Education
 
-Update the `file_path` variable in each script to point to your local `.ply` file, then run:
+<table>
+<tr>
+<td width="50%">
 
-```bash
-python open3d_visualise.py
-python open3d_voxelization.py
-python pyvista_visualise.py
-python pyntcloud_visualise.py
-```
+### 🏛️ IIT Tirupati
+**B.Tech — Mechanical Engineering**
+- Mechatronics, Control Systems, Theory of Machines
+- Simscape · Simulink · MATLAB
+- Status: **Ongoing**
 
----
+</td>
+<td width="50%">
 
-## 📦 Dependencies
+### 🏛️ IIT Madras
+**BS — Data Science & Applications** *(ODP)*
+- ML · Statistics · Data Analytics
+- Python-based curriculum
+- Status: **Ongoing**
 
-| Library      | Purpose                                      |
-|--------------|----------------------------------------------|
-| `open3d`     | Point cloud I/O, visualisation, voxelization |
-| `pyvista`    | 3D mesh and point cloud rendering            |
-| `pyntcloud`  | Point cloud loading with pandas integration  |
-| `numpy`      | Array operations (used by pyntcloud script)  |
-
----
-
-## 📄 Dataset
-
-The sample dataset is a **Patchwork Chair** 3D scan in PLY format, sourced from the IITH LiDAR ground dataset. The dataset is included under its original license — see `patchwork_chair_ply_0/license.txt`.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🙋 Author
+## 🛠️ Tech Stack
 
-**Kanishk Patel** — [GitHub](https://github.com/KanishkPatel0206)
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Robotics & Simulation**
+
+![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+**Computer Vision & ML**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Data & Tools**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+
+---
+
+## 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🦾 [2-DOF Arm + Camera Sensor](https://github.com/KanishkPatel0206/2-degree-arm-with-camera-sensor)
+> ROS 2 simulation of a robotic arm with onboard camera feed, square trajectory control in Gazebo Ignition Fortress, visualised in RViz2.
+
+![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=flat)
+
+</td>
+<td width="50%">
+
+### ⚙️ [Shaper Mechanism Simulation](https://github.com/KanishkPatel0206/Shaper-Mechanism-Quick-Return-Simulation)
+> Six-link quick-return kinematic chain in Simscape Multibody. Full position, velocity & acceleration analysis — Theory of Machines project.
+
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Simscape](https://img.shields.io/badge/Simscape-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📐 [MATLAB 2-DOF Arm Sim](https://github.com/KanishkPatel0206/Matlab_2dof_arm_simulation)
+> Simulink simulation of a 2-DOF arm with sine & square wave trajectory tracking, joint kinematics and forward dynamics.
+
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🔬 [Breast Cancer Classifier](https://github.com/KanishkPatel0206/Logistic_Regression_in_python)
+> Logistic Regression on the Wisconsin dataset — **97% test accuracy** with full confusion matrix, precision/recall, and feature importance analysis.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![accuracy](https://img.shields.io/badge/Accuracy-97%25-brightgreen?style=flat)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![View All Projects](https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github)](https://github.com/KanishkPatel0206?tab=repositories)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](./metrics.stats.svg)
+
+</div>
+
+---
+
+## 📅 Contribution Calendar
+
+<div align="center">
+
+![Isometric Calendar](./metrics.isocalendar.svg)
+
+</div>
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KanishkPatel0206&theme=tokyonight" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KanishkPatel0206&theme=tokyonight" height="170"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=KanishkPatel0206&theme=tokyonight&hide_border=true" width="60%"/>
+
+</div>
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KanishkPatel0206&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+
+## 🚀 What I'm Working On
+
+- 👁️ **Computer Vision Pipeline** — real-time YOLO + OpenCV inference on custom datasets
+- 🦾 **ROS 2 Robotic Arm** — advancing control with sensor fusion and closed-loop feedback
+- 📊 **IIT Madras DS Programme** — deepening ML foundations with live industry datasets
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-kanishkpatel0206%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishkpatel0206@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://kanishkpatel0206.github.io/Kanishk)
+[![GitHub](https://img.shields.io/badge/GitHub-KanishkPatel0206-181717?style=for-the-badge&logo=github)](https://github.com/KanishkPatel0206)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<sub>⭐ If you find my projects useful, consider giving them a star!</sub>
+
+</div>
