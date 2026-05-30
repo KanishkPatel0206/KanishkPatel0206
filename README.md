@@ -164,7 +164,7 @@ kanishk = {
 
 <div align="center">
 
-![Contribution Graph](./metrics.calendar.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KanishkPatel0206&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
