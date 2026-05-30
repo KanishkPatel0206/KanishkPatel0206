@@ -12,6 +12,7 @@
 
 </div>
 
+ 🌐 **Portfolio** → [https://kanishk-portfolio-kv9w.arcada.app/]
 ---
 
 ## 👨‍💻 About Me
@@ -29,8 +30,6 @@ kanishk = {
 }
 ```
 
-🌐 **Portfolio** → [kanishk-portfolio-kv9w.arcada.app](https://kanishk-portfolio-kv9w.arcada.app/)
-
 ---
 
 ## 🎓 Education
@@ -41,16 +40,18 @@ kanishk = {
 
 ### 🏛️ IIT Tirupati
 **B.Tech — Mechanical Engineering**
-Mechatronics · Control Systems · Theory of Machines
-Simscape · Simulink · MATLAB
+- Mechatronics, Control Systems, Theory of Machines
+- Simscape · Simulink · MATLAB
+- Status: **Ongoing**
 
 </td>
 <td width="50%">
 
 ### 🏛️ IIT Madras
 **BS — Data Science & Applications** *(ODP)*
-ML · Statistics · Data Analytics
-Python-based curriculum
+- ML · Statistics · Data Analytics
+- Python-based curriculum
+- Status: **Ongoing**
 
 </td>
 </tr>
@@ -71,12 +72,11 @@ Python-based curriculum
 ![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Simscape](https://img.shields.io/badge/Simscape-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 **Computer Vision & ML**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00AAAA?style=for-the-badge&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
@@ -98,18 +98,18 @@ Python-based curriculum
 ### 🦾 [2-DOF Arm + Camera Sensor](https://github.com/KanishkPatel0206/2-degree-arm-with-camera-sensor)
 > ROS 2 simulation of a robotic arm with onboard camera feed, square trajectory control in Gazebo Ignition Fortress, visualised in RViz2.
 
-![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=flat-square)
+![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=flat)
 
 </td>
 <td width="50%">
 
 ### ⚙️ [Shaper Mechanism Simulation](https://github.com/KanishkPatel0206/Shaper-Mechanism-Quick-Return-Simulation)
-> Six-link quick-return kinematic chain in Simscape Multibody. Full position, velocity & acceleration analysis.
+> Six-link quick-return kinematic chain in Simscape Multibody. Full position, velocity & acceleration analysis — Theory of Machines project.
 
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Simscape](https://img.shields.io/badge/Simscape-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Simscape](https://img.shields.io/badge/Simscape-0076A8?style=flat&logo=mathworks&logoColor=white)
 
 </td>
 </tr>
@@ -119,8 +119,8 @@ Python-based curriculum
 ### 📐 [MATLAB 2-DOF Arm Sim](https://github.com/KanishkPatel0206/Matlab_2dof_arm_simulation)
 > Simulink simulation of a 2-DOF arm with sine & square wave trajectory tracking, joint kinematics and forward dynamics.
 
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat&logo=mathworks&logoColor=white)
 
 </td>
 <td width="50%">
@@ -128,9 +128,9 @@ Python-based curriculum
 ### 🔬 [Breast Cancer Classifier](https://github.com/KanishkPatel0206/Logistic_Regression_in_python)
 > Logistic Regression on the Wisconsin dataset — **97% test accuracy** with full confusion matrix, precision/recall, and feature importance analysis.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Accuracy](https://img.shields.io/badge/Accuracy-97%25-brightgreen?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![accuracy](https://img.shields.io/badge/Accuracy-97%25-brightgreen?style=flat)
 
 </td>
 </tr>
@@ -144,29 +144,40 @@ Python-based curriculum
 
 ---
 
-## 🚀 What I'm Working On
-
-- 👁️ **Computer Vision Pipeline** — real-time YOLO + OpenCV inference on custom datasets
-- 🦾 **ROS 2 Robotic Arm** — advancing control with sensor fusion and closed-loop feedback
-- 📊 **IIT Madras DS Programme** — deepening ML foundations with live industry datasets
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KanishkPatel0206&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkPatel0206&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+![Stats](./metrics.stats.svg)
 
 </div>
+
+---
+
+## 📅 Contribution Calendar
+
+<div align="center">
+
+![Isometric Calendar](./metrics.isocalendar.svg)
+
+</div>
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KanishkPatel0206&theme=tokyonight" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KanishkPatel0206&theme=tokyonight" height="170"/>
+
+</div>
+
+---
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=KanishkPatel0206&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
+---
 
 <div align="center">
 
@@ -176,14 +187,21 @@ Python-based curriculum
 
 ---
 
+
+## 🚀 What I'm Working On
+
+- 👁️ **Computer Vision Pipeline** — real-time YOLO + OpenCV inference on custom datasets
+- 🦾 **ROS 2 Robotic Arm** — advancing control with sensor fusion and closed-loop feedback
+- 📊 **IIT Madras DS Programme** — deepening ML foundations with live industry datasets
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-kanishkpatel0206%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishkpatel0206@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://kanishk-portfolio-kv9w.arcada.app/)
-&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://kanishkpatel0206.github.io/Kanishk)
 [![GitHub](https://img.shields.io/badge/GitHub-KanishkPatel0206-181717?style=for-the-badge&logo=github)](https://github.com/KanishkPatel0206)
 
 </div>
