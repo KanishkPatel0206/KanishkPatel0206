@@ -161,6 +161,13 @@ kanishk = {
 ![Isometric Calendar](./metrics.isocalendar.svg)
 
 </div>
+---
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=KanishkPatel0206&theme=tokyonight&hide_border=true" width="60%"/>
+
+</div>
+---
 
 <div align="center">
 
