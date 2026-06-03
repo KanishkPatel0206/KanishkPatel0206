@@ -6,14 +6,14 @@
 
 <br/>
 
+
 [![GitHub followers](https://img.shields.io/github/followers/KanishkPatel0206?style=social)](https://github.com/KanishkPatel0206)
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=KanishkPatel0206&color=00e5ff&style=flat&label=Profile+Views)](https://github.com/KanishkPatel0206)
 
 </div>
 
-🌐 **Portfolio** → [kanishkpatel0206.github.io/Kanishk](https://kanishkpatel0206.github.io/Kanishk)
-
+ 🌐 **Portfolio** → [https://kanishk-portfolio-kv9w.arcada.app/]
 ---
 
 ## 👨‍💻 About Me
@@ -149,10 +149,7 @@ kanishk = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KanishkPatel0206&theme=tokyonight" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KanishkPatel0206&theme=tokyonight" height="170"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KanishkPatel0206&theme=tokyonight&utcOffset=5.5" height="170"/>
+![Stats](./metrics.stats.svg)
 
 </div>
 
@@ -162,10 +159,9 @@ kanishk = {
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KanishkPatel0206&theme=tokyo-night&hide_border=true&area=true)
+![Isometric Calendar](./metrics.isocalendar.svg)
 
 </div>
-
 ---
 
 <div align="center">
@@ -182,8 +178,16 @@ kanishk = {
 <img src="https://streak-stats.demolab.com?user=KanishkPatel0206&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KanishkPatel0206&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
 
 ---
+
 
 ## 🚀 What I'm Working On
 
@@ -200,7 +204,6 @@ kanishk = {
 [![Email](https://img.shields.io/badge/Gmail-kanishkpatel0206%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishkpatel0206@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://kanishkpatel0206.github.io/Kanishk)
 [![GitHub](https://img.shields.io/badge/GitHub-KanishkPatel0206-181717?style=for-the-badge&logo=github)](https://github.com/KanishkPatel0206)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishkpatel0206)
 
 </div>
 
