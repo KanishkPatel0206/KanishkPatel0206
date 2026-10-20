@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=190&section=header&text=Kanishk%20Patel&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Robotics%20%7C%20Computer%20Vision%20%7C%20Simulation&descAlignY=58&descSize=17" width="100%" alt="Kanishk Patel — Robotics, Computer Vision and Simulation"/>
 
-<a href="https://kanishkpatel0206.github.io/kanishk-desktop/#coquette-desktop-portfolio">
+<a href="https://kanishkpatel0206.github.io/Kanishk/index.html">
   <img src="https://img.shields.io/badge/Explore%20My-Portfolio-0891B2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Explore my portfolio"/>
 </a>
 <a href="https://github.com/KanishkPatel0206?tab=repositories">
