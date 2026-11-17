@@ -22,7 +22,7 @@
 </div>
 
 👋 About Me
-I'm a Mechanical Engineering undergraduate at IIT Tirupati, interested in the intersection of robotics, control, computer vision, and machine learning. I enjoy building simulations and software that connect algorithms to physical systems.
+I'm a Mechanical Engineering undergraduate at IIT  , interested in the intersection of robotics, control, computer vision, and machine learning. I enjoy building simulations and software that connect algorithms to physical systems.
 - 🦾 Robotics: ROS 2, robot kinematics, motion and trajectory simulation
 - 👁️ Computer vision: OpenCV, object detection, image-based pipelines
 - 🧠 Machine learning: Python, scikit-learn, PyTorch fundamentals
@@ -33,7 +33,7 @@ My goal: build autonomous systems where algorithms meet actuators.
 
 🎓 Education
 Institution	Programme	Areas of interest
-IIT Tirupati	B.Tech, Mechanical Engineering — ongoing	Mechatronics, mechanisms, control and engineering simulation
+IIT 	B.Tech, Mechanical Engineering — ongoing	Mechatronics, mechanisms, control and engineering simulation
 IIT Madras	BS in Data Science and Applications — coursework completed through the Foundation level (update status if this changes)	Python, statistics, data science and ML foundations
 
 
